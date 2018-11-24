@@ -1,4 +1,4 @@
 # tizengo
   *typo
-   *htttps://github.com/dbsxowls8187/tizengo
+   https://github.com/dbsxowls8187/tizengo
    
